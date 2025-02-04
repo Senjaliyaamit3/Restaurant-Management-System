@@ -1,0 +1,29 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.dashboard
+{
+    background-color:#08414E;
+    width: 250px;
+    height: 100%;
+    font-weight: 500;
+    font: 1em sans-serif;
+}
+ul
+{
+    padding-left: 50px;
+    padding-top: 50px;
+    list-style: none;   
+}
+li
+{
+    color:white;
+    margin-top: 35px;
+}
+li a
+{
+    color: white;
+    text-decoration: none;
+}
